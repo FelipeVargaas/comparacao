@@ -1,0 +1,11 @@
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\bin\Debug\comparacao.exe.config
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\bin\Debug\comparacao.exe
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\bin\Debug\comparacao.pdb
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.csproj.AssemblyReference.cache
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.csproj.SuggestedBindingRedirects.cache
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.Form1.resources
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.Properties.Resources.resources
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.csproj.GenerateResource.cache
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.csproj.CoreCompileInputs.cache
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.exe
+C:\Dropbox\Faculdade\7º Periodo\comparacao\comparacao\obj\Debug\comparacao.pdb
