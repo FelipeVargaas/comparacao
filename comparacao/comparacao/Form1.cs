@@ -29,23 +29,26 @@ namespace comparacao
 
         private void btn_comp_Click(object sender, EventArgs e)
         {
-            int num1 = Convert.ToInt16(txb_num1.Text);
-            int num2 = Convert.ToInt16(txb_num2.Text);
-
             if (txb_num1.Text != "" && txb_num2.Text != "")
             {
+                int num1 = Convert.ToInt16(txb_num1.Text);
+                int num2 = Convert.ToInt16(txb_num2.Text);
                 if (num1 > num2)
                 {
-                    MessageBox.Show("O primeiro número é maior que o segundo número." + num1);
+                    MessageBox.Show("O primeiro número é maior que o segundo número. -> " + num1 + " > " + num2);
                 }
                 else if (num1 < num2)
                 {
-                    MessageBox.Show("O segundo número é maior que o primeiro número." + num2);
+                    MessageBox.Show("O segundo número é maior que o primeiro número. -> " + num2 + " > " + num1);
                 }
                 else
                 {
                     MessageBox.Show("Os números são iguais.");
                 }
+            }
+            else
+            {
+                MessageBox.Show("Preencha os campos vazios");
             }
         }
 

@@ -8,6 +8,6 @@ Requisitos:
 - .NET Framework 3.5 ou maior
 - Microsoft Visual Studio
 
-Para executar o programa, basta dar 2 cliques no arquivo comparação.exe
+Para executar o programa, basta dar 2 cliques no arquivo comparacao.exe
 
 Versão 1.0

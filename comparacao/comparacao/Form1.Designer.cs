@@ -106,6 +106,7 @@
             this.Controls.Add(this.txb_num2);
             this.Controls.Add(this.txb_num1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Comparação ";
             this.ResumeLayout(false);
             this.PerformLayout();
